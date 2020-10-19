@@ -1,0 +1,4 @@
+include ':kodeindi'
+include ':koindi'
+include ':daggerhiltdi'
+rootProject.name = "DiExampleAIO"
